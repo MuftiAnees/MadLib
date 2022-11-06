@@ -1,0 +1,10 @@
+print("Welcome to Python Madlib! \nHere you enter random words and in the end it tells you something that you do not expect to have ever read.")
+noun= input("Enter a Noun: ")
+verb=input("Enter a verb: ")
+adj=input("Enter an Adjective: ")
+noun1= input("Enter a Noun: ")
+verb2=input("Enter a verb: ")
+adj2=input("Enter an Adjective: ")
+
+print("Here is your Madlib! \n\n")
+print(f"Once upon a time  {noun1} was doing a {verb} very {adj2}. However {noun} was {verb2} while they looked {adj}")
